@@ -1,6 +1,0 @@
-<Solution>
-  <Project Path="GUIANDO/GUIANDO.csproj" Id="36c138f9-772c-4242-b517-166997e0137b" />
-  <Project Path="Setup1/Setup1.vdproj" Type="Installer">
-    <Build />
-  </Project>
-</Solution>
