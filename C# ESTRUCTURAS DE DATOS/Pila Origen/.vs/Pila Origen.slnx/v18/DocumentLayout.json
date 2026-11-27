@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\Pila Origen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3B00F3-7EC3-4906-A5C8-46D48BD24212}|Pila Origen\\Pila Origen.csproj|c:\\users\\admin\\documents\\programas 4 cuatri\\pila origen\\pila origen\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3B00F3-7EC3-4906-A5C8-46D48BD24212}|Pila Origen\\Pila Origen.csproj|solutionrelative:pila origen\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3B00F3-7EC3-4906-A5C8-46D48BD24212}|Pila Origen\\Pila Origen.csproj|C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\Pila Origen\\pila origen\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3B00F3-7EC3-4906-A5C8-46D48BD24212}|Pila Origen\\Pila Origen.csproj|solutionrelative:pila origen\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3B00F3-7EC3-4906-A5C8-46D48BD24212}|Pila Origen\\Pila Origen.csproj|C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\Pila Origen\\pila origen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3B00F3-7EC3-4906-A5C8-46D48BD24212}|Pila Origen\\Pila Origen.csproj|solutionrelative:pila origen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pila.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\Pila Origen\\Pila Origen\\Pila.cs",
+              "RelativeDocumentMoniker": "Pila Origen\\Pila.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\Pila Origen\\Pila Origen\\Pila.cs",
+              "RelativeToolTip": "Pila Origen\\Pila.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T20:23:44.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\Pila Origen\\Pila Origen\\Nodo.cs",
+              "RelativeDocumentMoniker": "Pila Origen\\Nodo.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\Pila Origen\\Pila Origen\\Nodo.cs",
+              "RelativeToolTip": "Pila Origen\\Nodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T20:23:36.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\Pila Origen\\Pila Origen\\Program.cs",
+              "RelativeDocumentMoniker": "Pila Origen\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\Pila Origen\\Pila Origen\\Program.cs",
+              "RelativeToolTip": "Pila Origen\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T20:22:42.014Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

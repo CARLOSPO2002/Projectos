@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\PILA\PILA\bin\Debug\PILA.exe.config
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\PILA\PILA\bin\Debug\PILA.exe
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\PILA\PILA\bin\Debug\PILA.pdb
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\PILA\PILA\obj\Debug\PILA.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\PILA\PILA\obj\Debug\PILA.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\PILA\PILA\obj\Debug\PILA.exe
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\PILA\PILA\obj\Debug\PILA.pdb

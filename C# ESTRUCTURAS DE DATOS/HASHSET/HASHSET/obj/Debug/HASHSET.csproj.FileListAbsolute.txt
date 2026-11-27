@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\HASHSET\HASHSET\bin\Debug\HASHSET.exe.config
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\HASHSET\HASHSET\bin\Debug\HASHSET.exe
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\HASHSET\HASHSET\bin\Debug\HASHSET.pdb
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\HASHSET\HASHSET\obj\Debug\HASHSET.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\HASHSET\HASHSET\obj\Debug\HASHSET.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\HASHSET\HASHSET\obj\Debug\HASHSET.exe
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\HASHSET\HASHSET\obj\Debug\HASHSET.pdb

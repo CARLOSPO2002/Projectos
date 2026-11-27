@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\LISTAS SIMPLES\\LISTAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F59CC7D-FF5F-4DA4-9FE2-A847C50ECE84}|LISTAS\\LISTAS.csproj|c:\\users\\admin\\documents\\programas 4 cuatri\\listas simples\\listas\\listas\\lista_enlazada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F59CC7D-FF5F-4DA4-9FE2-A847C50ECE84}|LISTAS\\LISTAS.csproj|solutionrelative:listas\\lista_enlazada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F59CC7D-FF5F-4DA4-9FE2-A847C50ECE84}|LISTAS\\LISTAS.csproj|C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\LISTAS SIMPLES\\LISTAS\\listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F59CC7D-FF5F-4DA4-9FE2-A847C50ECE84}|LISTAS\\LISTAS.csproj|solutionrelative:listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F59CC7D-FF5F-4DA4-9FE2-A847C50ECE84}|LISTAS\\LISTAS.csproj|C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\LISTAS SIMPLES\\LISTAS\\listas\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F59CC7D-FF5F-4DA4-9FE2-A847C50ECE84}|LISTAS\\LISTAS.csproj|solutionrelative:listas\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\LISTAS SIMPLES\\LISTAS\\LISTAS\\Nodo.cs",
+              "RelativeDocumentMoniker": "LISTAS\\Nodo.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\LISTAS SIMPLES\\LISTAS\\LISTAS\\Nodo.cs",
+              "RelativeToolTip": "LISTAS\\Nodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T20:20:39Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lista_enlazada.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\LISTAS SIMPLES\\LISTAS\\LISTAS\\Lista_enlazada.cs",
+              "RelativeDocumentMoniker": "LISTAS\\Lista_enlazada.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\LISTAS SIMPLES\\LISTAS\\LISTAS\\Lista_enlazada.cs",
+              "RelativeToolTip": "LISTAS\\Lista_enlazada.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowG8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T20:21:01.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\LISTAS SIMPLES\\LISTAS\\LISTAS\\Program.cs",
+              "RelativeDocumentMoniker": "LISTAS\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\LISTAS SIMPLES\\LISTAS\\LISTAS\\Program.cs",
+              "RelativeToolTip": "LISTAS\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwBAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T19:58:24.946Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

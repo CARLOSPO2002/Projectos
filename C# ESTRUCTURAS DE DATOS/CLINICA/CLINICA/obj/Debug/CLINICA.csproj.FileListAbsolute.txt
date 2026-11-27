@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\CLINICA\CLINICA\bin\Debug\CLINICA.exe.config
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\CLINICA\CLINICA\bin\Debug\CLINICA.exe
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\CLINICA\CLINICA\bin\Debug\CLINICA.pdb
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\CLINICA\CLINICA\obj\Debug\CLINICA.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\CLINICA\CLINICA\obj\Debug\CLINICA.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\CLINICA\CLINICA\obj\Debug\CLINICA.exe
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\CLINICA\CLINICA\obj\Debug\CLINICA.pdb

@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\CONSULTORIO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CFB613-A587-423B-AE4D-1FB75FD0C565}|CONSULTORIO\\CONSULTORIO.csproj|c:\\users\\admin\\documents\\programas 4 cuatri\\consultorio\\consultorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CFB613-A587-423B-AE4D-1FB75FD0C565}|CONSULTORIO\\CONSULTORIO.csproj|solutionrelative:consultorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CFB613-A587-423B-AE4D-1FB75FD0C565}|CONSULTORIO\\CONSULTORIO.csproj|C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\CONSULTORIO\\consultorio\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CFB613-A587-423B-AE4D-1FB75FD0C565}|CONSULTORIO\\CONSULTORIO.csproj|solutionrelative:consultorio\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CFB613-A587-423B-AE4D-1FB75FD0C565}|CONSULTORIO\\CONSULTORIO.csproj|C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\CONSULTORIO\\consultorio\\opciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CFB613-A587-423B-AE4D-1FB75FD0C565}|CONSULTORIO\\CONSULTORIO.csproj|solutionrelative:consultorio\\opciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CFB613-A587-423B-AE4D-1FB75FD0C565}|CONSULTORIO\\CONSULTORIO.csproj|C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\CONSULTORIO\\consultorio\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CFB613-A587-423B-AE4D-1FB75FD0C565}|CONSULTORIO\\CONSULTORIO.csproj|solutionrelative:consultorio\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PACIENTE.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\CONSULTORIO\\CONSULTORIO\\PACIENTE.cs",
+              "RelativeDocumentMoniker": "CONSULTORIO\\PACIENTE.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\CONSULTORIO\\CONSULTORIO\\PACIENTE.cs",
+              "RelativeToolTip": "CONSULTORIO\\PACIENTE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T01:53:47.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Opciones.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\CONSULTORIO\\CONSULTORIO\\Opciones.cs",
+              "RelativeDocumentMoniker": "CONSULTORIO\\Opciones.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\CONSULTORIO\\CONSULTORIO\\Opciones.cs",
+              "RelativeToolTip": "CONSULTORIO\\Opciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T00:06:05.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NODO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\CONSULTORIO\\CONSULTORIO\\NODO.cs",
+              "RelativeDocumentMoniker": "CONSULTORIO\\NODO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\CONSULTORIO\\CONSULTORIO\\NODO.cs",
+              "RelativeToolTip": "CONSULTORIO\\NODO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T00:05:45.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\CONSULTORIO\\CONSULTORIO\\Program.cs",
+              "RelativeDocumentMoniker": "CONSULTORIO\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\CONSULTORIO\\CONSULTORIO\\Program.cs",
+              "RelativeToolTip": "CONSULTORIO\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAC0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T00:03:39.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

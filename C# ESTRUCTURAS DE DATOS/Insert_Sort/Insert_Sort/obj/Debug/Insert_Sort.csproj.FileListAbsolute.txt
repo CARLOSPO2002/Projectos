@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\Insert_Sort\Insert_Sort\bin\Debug\Insert_Sort.exe.config
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\Insert_Sort\Insert_Sort\bin\Debug\Insert_Sort.exe
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\Insert_Sort\Insert_Sort\bin\Debug\Insert_Sort.pdb
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\Insert_Sort\Insert_Sort\obj\Debug\Insert_Sort.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\Insert_Sort\Insert_Sort\obj\Debug\Insert_Sort.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\Insert_Sort\Insert_Sort\obj\Debug\Insert_Sort.exe
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\Insert_Sort\Insert_Sort\obj\Debug\Insert_Sort.pdb

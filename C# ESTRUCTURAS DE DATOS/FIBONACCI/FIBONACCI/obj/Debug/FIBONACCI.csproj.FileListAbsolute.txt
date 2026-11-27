@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\FIBONACCI\FIBONACCI\bin\Debug\FIBONACCI.exe.config
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\FIBONACCI\FIBONACCI\bin\Debug\FIBONACCI.exe
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\FIBONACCI\FIBONACCI\bin\Debug\FIBONACCI.pdb
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\FIBONACCI\FIBONACCI\obj\Debug\FIBONACCI.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\FIBONACCI\FIBONACCI\obj\Debug\FIBONACCI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\FIBONACCI\FIBONACCI\obj\Debug\FIBONACCI.exe
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\FIBONACCI\FIBONACCI\obj\Debug\FIBONACCI.pdb

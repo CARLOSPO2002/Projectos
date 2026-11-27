@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\LISTAS SIMPLES\LISTAS\LISTAS\bin\Debug\LISTAS.exe.config
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\LISTAS SIMPLES\LISTAS\LISTAS\bin\Debug\LISTAS.exe
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\LISTAS SIMPLES\LISTAS\LISTAS\bin\Debug\LISTAS.pdb
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\LISTAS SIMPLES\LISTAS\LISTAS\obj\Debug\LISTAS.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\LISTAS SIMPLES\LISTAS\LISTAS\obj\Debug\LISTAS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\LISTAS SIMPLES\LISTAS\LISTAS\obj\Debug\LISTAS.exe
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\LISTAS SIMPLES\LISTAS\LISTAS\obj\Debug\LISTAS.pdb

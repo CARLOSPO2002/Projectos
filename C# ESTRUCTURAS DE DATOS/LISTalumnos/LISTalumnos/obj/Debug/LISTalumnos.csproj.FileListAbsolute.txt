@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\LISTalumnos\LISTalumnos\bin\Debug\LISTalumnos.exe.config
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\LISTalumnos\LISTalumnos\bin\Debug\LISTalumnos.exe
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\LISTalumnos\LISTalumnos\bin\Debug\LISTalumnos.pdb
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\LISTalumnos\LISTalumnos\obj\Debug\LISTalumnos.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\LISTalumnos\LISTalumnos\obj\Debug\LISTalumnos.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\LISTalumnos\LISTalumnos\obj\Debug\LISTalumnos.exe
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\LISTalumnos\LISTalumnos\obj\Debug\LISTalumnos.pdb

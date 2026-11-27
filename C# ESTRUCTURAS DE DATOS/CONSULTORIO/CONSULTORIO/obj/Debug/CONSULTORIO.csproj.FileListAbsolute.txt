@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\CONSULTORIO\CONSULTORIO\bin\Debug\CONSULTORIO.exe.config
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\CONSULTORIO\CONSULTORIO\bin\Debug\CONSULTORIO.exe
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\CONSULTORIO\CONSULTORIO\bin\Debug\CONSULTORIO.pdb
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\CONSULTORIO\CONSULTORIO\obj\Debug\CONSULTORIO.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\CONSULTORIO\CONSULTORIO\obj\Debug\CONSULTORIO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\CONSULTORIO\CONSULTORIO\obj\Debug\CONSULTORIO.exe
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\CONSULTORIO\CONSULTORIO\obj\Debug\CONSULTORIO.pdb

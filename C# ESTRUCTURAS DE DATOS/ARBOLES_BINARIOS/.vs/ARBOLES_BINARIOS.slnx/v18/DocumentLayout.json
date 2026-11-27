@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\ARBOLES_BINARIOS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{978632D0-3961-481B-B53D-48AC23102E75}|ARBOLES_BINARIOS\\ARBOLES_BINARIOS.csproj|C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\ARBOLES_BINARIOS\\arboles_binarios\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978632D0-3961-481B-B53D-48AC23102E75}|ARBOLES_BINARIOS\\ARBOLES_BINARIOS.csproj|solutionrelative:arboles_binarios\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978632D0-3961-481B-B53D-48AC23102E75}|ARBOLES_BINARIOS\\ARBOLES_BINARIOS.csproj|c:\\users\\admin\\documents\\programas 4 cuatri\\arboles_binarios\\arboles_binarios\\arbolbb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978632D0-3961-481B-B53D-48AC23102E75}|ARBOLES_BINARIOS\\ARBOLES_BINARIOS.csproj|solutionrelative:arboles_binarios\\arbolbb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978632D0-3961-481B-B53D-48AC23102E75}|ARBOLES_BINARIOS\\ARBOLES_BINARIOS.csproj|C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\ARBOLES_BINARIOS\\arboles_binarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978632D0-3961-481B-B53D-48AC23102E75}|ARBOLES_BINARIOS\\ARBOLES_BINARIOS.csproj|solutionrelative:arboles_binarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ARBOLbb.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\ARBOLES_BINARIOS\\ARBOLES_BINARIOS\\ARBOLbb.cs",
+              "RelativeDocumentMoniker": "ARBOLES_BINARIOS\\ARBOLbb.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\ARBOLES_BINARIOS\\ARBOLES_BINARIOS\\ARBOLbb.cs",
+              "RelativeToolTip": "ARBOLES_BINARIOS\\ARBOLbb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T02:11:26.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NODO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\ARBOLES_BINARIOS\\ARBOLES_BINARIOS\\NODO.cs",
+              "RelativeDocumentMoniker": "ARBOLES_BINARIOS\\NODO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\ARBOLES_BINARIOS\\ARBOLES_BINARIOS\\NODO.cs",
+              "RelativeToolTip": "ARBOLES_BINARIOS\\NODO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T23:16:26.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\ARBOLES_BINARIOS\\ARBOLES_BINARIOS\\Program.cs",
+              "RelativeDocumentMoniker": "ARBOLES_BINARIOS\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\PROGRAMAS 4 cuatri\\ARBOLES_BINARIOS\\ARBOLES_BINARIOS\\Program.cs",
+              "RelativeToolTip": "ARBOLES_BINARIOS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T21:37:52.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

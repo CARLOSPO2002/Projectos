@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\FACTORIAL\FACTORIAL\bin\Debug\FACTORIAL.exe.config
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\FACTORIAL\FACTORIAL\bin\Debug\FACTORIAL.exe
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\FACTORIAL\FACTORIAL\bin\Debug\FACTORIAL.pdb
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\FACTORIAL\FACTORIAL\obj\Debug\FACTORIAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\FACTORIAL\FACTORIAL\obj\Debug\FACTORIAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\FACTORIAL\FACTORIAL\obj\Debug\FACTORIAL.exe
+C:\Users\Admin\Documents\PROGRAMAS 4 cuatri\FACTORIAL\FACTORIAL\obj\Debug\FACTORIAL.pdb
